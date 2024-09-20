@@ -7,3 +7,5 @@ wordcloud==1.8.2
 matplotlib==3.4.2
 aiohttp==3.7.4
 asyncio==3.4.3  # asyncio is part of the standard library in Python 3.7+
+numpy==1.23.5
+pip>=24.2
